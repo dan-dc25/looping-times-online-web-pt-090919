@@ -4,3 +4,5 @@ def using_times
     break
 	end
 end
+
+using_times
